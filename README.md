@@ -157,13 +157,6 @@ Threat Reasons: 2
 ✅ Protected directory locked: /home/user/protected_data
 ```
 
----
-
-## License
-
-MIT License - Free to use and modify
-
----
 
 ## Requirements
 
